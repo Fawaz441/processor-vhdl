@@ -29,6 +29,6 @@ architecture Behavioral of alu is
             end if;
         end process;
 
-begin
+        rd <= result;
 
-end arch ; -- arch
+end Behavioral;

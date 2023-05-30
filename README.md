@@ -1,0 +1,2 @@
+- After adding in all the files, try to get the RTL schematic
+- Video link[https://www.youtube.com/watch?v=tTlhIDgAGYY]
